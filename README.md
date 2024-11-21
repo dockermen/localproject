@@ -1,5 +1,5 @@
 # localproject
-### setting
+### Setting
 ```shell
 git config --global user.name "ChenZhilong"
 git config --global user.email "qq.com"
