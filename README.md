@@ -25,3 +25,12 @@ git config --global https.proxy socks5://127.0.0.1:10808
 #通过创建反向提交撤回：使用 git revert <commit>
 ```
 
+## Git Gui
+
+```shell
+#拉取最新仓库
+Remote--Fetch From--origin
+#合并本地文件
+Merge--Local Merge--Tracking Branch--Merge
+```
+
