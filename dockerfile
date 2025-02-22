@@ -1,0 +1,1 @@
+FROM elfgzp/gortal:latest
